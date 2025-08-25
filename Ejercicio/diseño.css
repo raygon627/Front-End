@@ -1,0 +1,15 @@
+
+h1{
+    background-color: rgb(252, 169, 45);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 20px;
+}
+body{
+background-color: rgb(252, 128, 13);
+color: bisque;
+}
+img{
+    width: 200px;
+}
